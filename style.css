@@ -1,0 +1,30 @@
+body {
+	background-color: #f5ecd9;
+}
+.center{
+	text-align: center;
+	color: #09175d;
+}
+h2{
+	font-size:20px;
+}
+.photo{
+	text-align: center;
+}
+.cat1{
+	height: 300px;
+}
+.message{
+	font-size:20px
+}
+.url{
+	margin-left: 10;
+}
+
+ul {
+    list-style:none;
+}
+li:before {
+    content: url(insta.jpg);
+    position: relative;
+  }
